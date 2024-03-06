@@ -1,4 +1,2 @@
-# It' just for past My job. But It seems to be helpful who want to use hwp by python.
-# I know it's suck. But I'm not.. developer.
----
-It' just code made by actions
+# 1. 프로그램 형태
+![image](https://github.com/NeatyNut/hwpauto/assets/89675001/7f0f26c6-0169-4440-aece-334fa6e56174)
