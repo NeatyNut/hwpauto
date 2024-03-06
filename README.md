@@ -10,7 +10,8 @@ https://github.com/NeatyNut/hwpauto/assets/89675001/37558b83-2da6-4131-bd7d-d60f
 
 ## 2) 구현 영상
 - 레지스트리 허용 시 매번 허가 문구를 적을 필요가 없습니다. (용량 관계상 3배속 영상)
-https://github.com/NeatyNut/hwpauto/assets/89675001/04cde51d-81b1-4697-a3c6-2e6ec6500e1e
+https://github.com/NeatyNut/hwpauto/assets/89675001/daaf318d-a3b8-46a6-abf8-ebcda2ea878d
+
 
 ## ✨ 성과
 - 5인 8시간 → 컴퓨터 1대 2시간
